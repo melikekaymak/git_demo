@@ -1,5 +1,5 @@
 def divide_by_two(a):
-    return a/6
+    return a/2
 
 if __name__ == '__main__':
     print("Give the number to be divided by two.")
