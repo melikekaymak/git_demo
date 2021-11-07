@@ -1,5 +1,5 @@
 def add_four(a):
-    return a+6
+    return a+4
 
 if __name__ == '__main__':
     print("Give the number to be added by four.")
