@@ -1,5 +1,5 @@
 def mod_by_two(a):
-    return a%6
+    return a%2
 
 if __name__ == '__main__':
     print("Give the number to be taken its mode by two.")
