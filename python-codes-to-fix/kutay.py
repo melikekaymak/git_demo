@@ -1,5 +1,5 @@
 def add_thirty_one(a):
-    return a+6
+    return a+31
 
 if __name__ == '__main__':
     print("Give the number to be added by 31.")
